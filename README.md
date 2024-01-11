@@ -1,7 +1,7 @@
 # pinecone_rag
 RAG using GPT by pinecone
 
-#environment
+# Environment Setting
 conda env create -f rag_test.yaml <br/>
 conda activate rag
 
